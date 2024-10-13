@@ -6,7 +6,7 @@ TO SETUP Doopid.py :
 The program needs to be setup in a work file that contains :
 - the program itself
 - the gaussian script
-- a "Logs.txt" file for storing bash commands return/error codes
+- a "logs.txt" file for storing bash commands return/error codes
 - a "Geometries" directory for storing .xyz geometries generated using Avogadro (unsure for other programs)
 - a "Results" directory for storing previous calculations and avoid them being overwitten by newer files of the same name. This directory is to contain an "Inputs" dir (for .com files), an "Outputs" dir (for .log files) and a "Checkpoints" dir (for .chk files).
 
